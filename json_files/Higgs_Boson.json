@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "1964-01-01T00:00:00Z",
+    "title": "Introduction of Higgs Mechanism",
+    "description": "Peter Higgs and others introduce the concept of a field (the Higgs field) giving mass to other particles."
+  },
+  {
+    "timestamp": "1979-11-20T00:00:00Z",
+    "title": "Glashow, Weinberg and Salam Win Nobel Prize",
+    "description": "Sheldon Glashow, Steven Weinberg, and Abdus Salam win the Nobel Prize in Physics for electroweak unification, which requires the Higgs mechanism."
+  },
+  {
+    "timestamp": "1983-01-01T00:00:00Z",
+    "title": "Discovery of W and Z Bosons",
+    "description": "The discovery of W and Z bosons at CERN confirms the electroweak theory and implies the existence of the Higgs boson."
+  },
+  {
+    "timestamp": "2008-09-10T00:00:00Z",
+    "title": "Start of Large Hadron Collider",
+    "description": "The Large Hadron Collider (LHC) at CERN, designed to look for the Higgs boson among other things, is switched on."
+  },
+  {
+    "timestamp": "2012-07-04T00:00:00Z",
+    "title": "Higgs Boson Discovery Announced",
+    "description": "CERN announces the discovery of a new particle consistent with the Higgs boson."
+  },
+  {
+    "timestamp": "2013-10-08T00:00:00Z",
+    "title": "Nobel Prize for Higgs and Englert",
+    "description": "Peter Higgs and François Englert are awarded the Nobel Prize in Physics for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles."
+  }
+]

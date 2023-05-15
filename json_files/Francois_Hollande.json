@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "1954-08-12T00:00:00Z",
+    "title": "Birth",
+    "description": "François Hollande is born in Rouen, France."
+  },
+  {
+    "timestamp": "1981-06-01T00:00:00Z",
+    "title": "Elected to Parliament",
+    "description": "Hollande is elected to the French National Assembly for the first time."
+  },
+  {
+    "timestamp": "1997-06-01T00:00:00Z",
+    "title": "Becomes First Secretary of the Socialist Party",
+    "description": "Hollande becomes the First Secretary of the Socialist Party, a position he holds until 2008."
+  },
+  {
+    "timestamp": "2008-10-18T00:00:00Z",
+    "title": "End of First Secretary Position",
+    "description": "Hollande steps down as First Secretary of the Socialist Party."
+  },
+  {
+    "timestamp": "2011-10-16T00:00:00Z",
+    "title": "Wins Socialist Party Presidential Primary",
+    "description": "Hollande wins the Socialist Party presidential primary, becoming the party's candidate for the 2012 French presidential election."
+  },
+  {
+    "timestamp": "2012-05-06T00:00:00Z",
+    "title": "Elected President of France",
+    "description": "Hollande is elected President of France, defeating incumbent Nicolas Sarkozy."
+  },
+  {
+    "timestamp": "2012-05-15T00:00:00Z",
+    "title": "Inauguration as President",
+    "description": "Hollande is inaugurated as President of France."
+  },
+  {
+    "timestamp": "2015-01-07T00:00:00Z",
+    "title": "Charlie Hebdo Attack",
+    "description": "Under Hollande's presidency, France faces the Charlie Hebdo terrorist attack."
+  },
+  {
+    "timestamp": "2015-11-13T00:00:00Z",
+    "title": "Paris Attacks",
+    "description": "France is hit by a series of coordinated terrorist attacks, the deadliest on French soil since World War II."
+  },
+    {
+    "timestamp": "2017-05-14T00:00:00Z",
+    "title": "End of Presidency",
+    "description": "Hollande's term as President of France ends. He is succeeded by Emmanuel Macron."
+  }
+]

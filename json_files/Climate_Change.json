@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "1896-01-01T00:00:00Z",
+    "title": "Svante Arrhenius Predicts Global Warming",
+    "description": "Swedish scientist Svante Arrhenius publishes the first calculation of global warming from human emissions of CO2."
+  },
+  {
+    "timestamp": "1958-03-01T00:00:00Z",
+    "title": "Keeling Curve Begins",
+    "description": "Charles David Keeling begins systematic measurements of atmospheric CO2 at Mauna Loa in Hawaii and in Antarctica. His measurements, which continue to this day, show an increase in CO2 levels along with seasonal fluctuations, creating the now famous 'Keeling Curve'."
+  },
+  {
+    "timestamp": "1979-12-01T00:00:00Z",
+    "title": "First World Climate Conference",
+    "description": "The first World Climate Conference takes place, where scientists express concern over global warming."
+  },
+  {
+    "timestamp": "1992-06-04T00:00:00Z",
+    "title": "UN Framework Convention on Climate Change",
+    "description": "The United Nations Framework Convention on Climate Change (UNFCCC) is opened for signatures at the Earth Summit in Rio de Janeiro."
+  },
+  {
+    "timestamp": "1997-12-11T00:00:00Z",
+    "title": "Kyoto Protocol",
+    "description": "The Kyoto Protocol is adopted, legally binding developed countries to emission reduction targets."
+  },
+  {
+    "timestamp": "2015-12-12T00:00:00Z",
+    "title": "Paris Agreement",
+    "description": "The Paris Agreement is adopted, aiming to limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels."
+  },
+  {
+    "timestamp": "2021-11-01T00:00:00Z",
+    "title": "COP26",
+    "description": "The 2021 United Nations Climate Change Conference, also known as COP26, is held in Glasgow, Scotland."
+  },
+  {
+    "timestamp": "2050-01-01T00:00:00Z",
+    "title": "Predicted 'Net Zero' Target Date",
+    "description": "Many countries have set a target of reaching 'net zero' emissions by 2050."
+  },
+  {
+    "timestamp": "2100-01-01T00:00:00Z",
+    "title": "Potential Temperature Increase",
+    "description": "If greenhouse gas emissions continue at the current rate, scientists predict the average global temperature could increase by 3-5 degrees Celsius by this date."
+  }
+]

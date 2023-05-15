@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "1879-03-14T00:00:00Z",
+    "title": "Birth",
+    "description": "Albert Einstein is born in Ulm, in the Kingdom of Württemberg in the German Empire."
+  },
+  {
+    "timestamp": "1895-09-18T00:00:00Z",
+    "title": "Moves to Switzerland",
+    "description": "Einstein moves to Switzerland, where he will later attend the Swiss Federal Polytechnic in Zurich."
+  },
+  {
+    "timestamp": "1905-01-01T00:00:00Z",
+    "title": "Annus Mirabilis Papers",
+    "description": "Einstein publishes four groundbreaking papers in the field of theoretical physics and quantum mechanics."
+  },
+  {
+    "timestamp": "1915-11-25T00:00:00Z",
+    "title": "General Theory of Relativity",
+    "description": "Einstein presents the field equations of general relativity to the Prussian Academy of Sciences."
+  },
+  {
+    "timestamp": "1921-01-01T00:00:00Z",
+    "title": "Nobel Prize in Physics",
+    "description": "Einstein receives the Nobel Prize in Physics for his services to theoretical physics and the photoelectric effect."
+  },
+  {
+    "timestamp": "1933-02-28T00:00:00Z",
+    "title": "Emigration to the United States",
+    "description": "Einstein renounces his German citizenship for political reasons and moves to the United States. He accepts a position at the Institute for Advanced Study in Princeton, New Jersey."
+  },
+  {
+    "timestamp": "1945-04-17T00:00:00Z",
+    "title": "Einstein's Letter to Roosevelt",
+    "description": "Einstein writes a letter to President Franklin D. Roosevelt suggesting that the U.S. should start its own nuclear program, which eventually leads to the creation of the Manhattan Project."
+  },
+  {
+    "timestamp": "1955-04-18T00:00:00Z",
+    "title": "Death",
+    "description": "Einstein passes away at the age of 76 in Princeton, New Jersey."
+  }
+]

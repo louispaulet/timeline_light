@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": "1986-01-27T12:00:00Z",
+    "title": "Crew Arrives at Kennedy Space Center",
+    "description": "The crew of the Space Shuttle Challenger arrives at Kennedy Space Center in preparation for the launch scheduled the following day."
+  },
+  {
+    "timestamp": "1986-01-27T22:00:00Z",
+    "title": "First Attempt at Launch",
+    "description": "The first launch attempt is scrubbed due to bad weather at a transatlantic abort landing site."
+  },
+  {
+    "timestamp": "1986-01-28T06:00:00Z",
+    "title": "Ice Check Performed",
+    "description": "Due to unusually cold temperatures overnight, an ice inspection is performed and icicles over 200mm in length are observed on the pad structure."
+  },
+  {
+    "timestamp": "1986-01-28T09:00:00Z",
+    "title": "Ice Concerns Dismissed",
+    "description": "Concerns about ice on the pad are dismissed, and the countdown continues."
+  },
+  {
+    "timestamp": "1986-01-28T11:38:00Z",
+    "title": "Challenger Lifts Off",
+    "description": "The Space Shuttle Challenger lifts off from Kennedy Space Center."
+  },
+  {
+    "timestamp": "1986-01-28T11:39:00Z",
+    "title": "Booster Rocket Failure",
+    "description": "The right solid rocket booster fails, leading to the disintegration of the orbiter."
+  },
+  {
+    "timestamp": "1986-01-28T11:40:00Z",
+    "title": "Orbiter Breaks Apart",
+    "description": "The orbiter breaks apart due to aerodynamic forces."
+  },
+  {
+    "timestamp": "1986-01-28T12:00:00Z",
+    "title": "Public Learns of Disaster",
+    "description": "News of the disaster starts to spread across the globe."
+  },
+  {
+    "timestamp": "1986-01-28T15:00:00Z",
+    "title": "President Reagan Addresses the Nation",
+    "description": "President Reagan addresses the nation, postponing his planned State of the Union Address."
+  },
+  {
+    "timestamp": "1986-01-29T12:00:00Z",
+    "title": "NASA Begins Investigation",
+    "description": "NASA begins its investigation into the causes of the disaster."
+  },
+  {
+    "timestamp": "1986-02-03T12:00:00Z",
+    "title": "Presidential Commission Established",
+    "description": "President Reagan establishes a Presidential Commission to review the accident."
+  },
+  {
+    "timestamp": "1986-06-06T12:00:00Z",
+    "title": "Presidential Commission Report",
+    "description": "The Presidential Commission releases its report, citing a failure in the O-rings in the right solid rocket booster as the cause of the accident."
+  },
+  {
+    "timestamp": "1986-06-13T12:00:00Z",
+    "title": "NASA Releases Report",
+    "description": "NASA releases its report on the Challenger disaster, concurring with the findings of the Presidential Commission."
+  },
+    {
+    "timestamp": "1986-08-15T12:00:00Z",
+    "title": "NASA Announces New Safety Measures",
+    "description": "NASA announces that it will be implementing new safety measures and redesigning the solid rocket boosters."
+  },
+  {
+    "timestamp": "1988-09-29T12:00:00Z",
+    "title": "Return to Flight",
+    "description": "Space Shuttle Discovery launches, marking NASA's Return to Flight after the Challenger disaster."
+  }
+]

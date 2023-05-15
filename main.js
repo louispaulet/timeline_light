@@ -1,5 +1,22 @@
 // List of JSON filenames
-var jsonFiles = ['titanic.json', 'pearl_harbor.json']; // Add more filenames as needed
+var jsonFiles = [    
+    "Albert_Einstein.json",
+    "Climate_Change.json",
+    "Francois_Hollande.json",
+    "French_History.json",
+    "Game_of_Thrones.json",
+    "Higgs_Boson.json",
+    "Moon_Landing.json",
+    "Nicolas_Sarkozy.json",
+    "Pearl_Harbor.json",
+    "Space_Shuttle_Challenger.json",
+    "The_Office.json",
+    "The_Office_Dinner_Party.json",
+    "Titanic.json",
+    "Womens_Rights.json",
+    "9_11.json",
+]
+
 
 // Populate the dropdown with the JSON filenames
 var select = document.getElementById('jsonFileSelect');

@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2011-04-17T00:00:00Z",
+    "title": "Start of Game of Thrones",
+    "description": "Game of Thrones premieres on HBO. Ned Stark is appointed Hand of the King."
+  },
+  {
+    "timestamp": "2011-06-19T00:00:00Z",
+    "title": "Ned Stark's Execution",
+    "description": "Ned Stark is executed, sparking the War of the Five Kings."
+  },
+  {
+    "timestamp": "2012-06-03T00:00:00Z",
+    "title": "Battle of Blackwater",
+    "description": "Stannis Baratheon attempts to take King's Landing, but is defeated by the Lannisters with the help of wildfire."
+  },
+  {
+    "timestamp": "2013-06-02T00:00:00Z",
+    "title": "The Red Wedding",
+    "description": "Robb Stark, his wife, his mother, and many of his bannermen are killed at the Red Wedding."
+  },
+  {
+    "timestamp": "2014-04-06T00:00:00Z",
+    "title": "Joffrey's Death",
+    "description": "King Joffrey Baratheon is poisoned at his own wedding feast."
+  },
+  {
+    "timestamp": "2015-06-14T00:00:00Z",
+    "title": "Jon Snow's Death",
+    "description": "Jon Snow is betrayed and killed by his own men at Castle Black."
+  },
+  {
+    "timestamp": "2016-06-26T00:00:00Z",
+    "title": "Cersei Destroys the Sept",
+    "description": "Cersei Lannister destroys the Sept of Baelor with wildfire, killing many of her enemies in King's Landing."
+  },
+  {
+    "timestamp": "2017-08-27T00:00:00Z",
+    "title": "Night King Breaches the Wall",
+    "description": "The Night King uses Viserion to breach the Wall, allowing the Army of the Dead to march south."
+  },
+  {
+    "timestamp": "2019-05-12T00:00:00Z",
+    "title": "Sack of King's Landing",
+    "description": "Daenerys Targaryen attacks King's Landing, resulting in the city's fall and Cersei's death."
+  },
+  {
+    "timestamp": "2019-05-19T00:00:00Z",
+    "title": "End of Game of Thrones",
+    "description": "Bran Stark is elected king, and Jon Snow kills Daenerys Targaryen. The series ends."
+  }
+]

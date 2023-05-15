@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "1955-01-28T00:00:00Z",
+    "title": "Birth",
+    "description": "Nicolas Sarkozy is born in Paris, France."
+  },
+  {
+    "timestamp": "1983-03-14T00:00:00Z",
+    "title": "Becomes Mayor of Neuilly-sur-Seine",
+    "description": "At the age of 28, Sarkozy becomes the youngest mayor of a town with more than 50,000 inhabitants in France."
+  },
+  {
+    "timestamp": "1993-03-29T00:00:00Z",
+    "title": "Becomes Budget Minister",
+    "description": "Sarkozy becomes Budget Minister and spokesman for the executive in the government of Prime Minister Édouard Balladur."
+  },
+  {
+    "timestamp": "2002-05-07T00:00:00Z",
+    "title": "Becomes Interior Minister",
+    "description": "Sarkozy is named Minister of the Interior and Internal Security in the government of Prime Minister Jean-Pierre Raffarin."
+  },
+  {
+    "timestamp": "2004-03-31T00:00:00Z",
+    "title": "Becomes Finance Minister",
+    "description": "Sarkozy becomes Minister of State, Minister of Economy, Finance, and Industry."
+  },
+  {
+    "timestamp": "2007-05-16T00:00:00Z",
+    "title": "Elected President of France",
+    "description": "Sarkozy is elected President of France, defeating the Socialist Party's candidate Ségolène Royal."
+  },
+  {
+    "timestamp": "2007-05-16T00:00:00Z",
+    "title": "Inauguration as President",
+    "description": "Sarkozy is inaugurated as President of France."
+  },
+  {
+    "timestamp": "2011-03-19T00:00:00Z",
+    "title": "Start of Military Intervention in Libya",
+    "description": "Under Sarkozy's presidency, France takes a leading role in the NATO-led military intervention in Libya."
+  },
+  {
+    "timestamp": "2012-05-06T00:00:00Z",
+    "title": "Defeat in Presidential Election",
+    "description": "Sarkozy is defeated by François Hollande in the presidential election, becoming the first one-term president since Valéry Giscard d'Estaing."
+  },
+  {
+    "timestamp": "2016-11-27T00:00:00Z",
+    "title": "Defeat in Republican Primary",
+    "description": "Sarkozy comes in third in the primary for the Republican party's candidate for the 2017 presidential election, ending his political career."
+  }
+]

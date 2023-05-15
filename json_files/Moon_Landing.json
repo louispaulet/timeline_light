@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": "1969-07-16T13:32:00Z",
+    "title": "Apollo 11 Launch",
+    "description": "Apollo 11, the first lunar landing mission, is launched from Kennedy Space Center."
+  },
+  {
+    "timestamp": "1969-07-19T17:21:50Z",
+    "title": "Apollo 11 Enters Lunar Orbit",
+    "description": "Apollo 11 fires its engine to become captured by the Moon's gravity and enters lunar orbit."
+  },
+  {
+    "timestamp": "1969-07-20T13:46:00Z",
+    "title": "Lunar Module Separation",
+    "description": "The Lunar Module, named 'Eagle', separates from the Command Module for its descent to the lunar surface."
+  },
+  {
+    "timestamp": "1969-07-20T20:17:40Z",
+    "title": "Lunar Module Touchdown",
+    "description": "'Eagle' lands in the Sea of Tranquility. Neil Armstrong reports: 'The Eagle has landed.'"
+  },
+  {
+    "timestamp": "1969-07-20T22:56:15Z",
+    "title": "First Man on the Moon",
+    "description": "Neil Armstrong becomes the first person to step onto the lunar surface."
+  },
+  {
+    "timestamp": "1969-07-21T03:56:15Z",
+    "title": "Second Man on the Moon",
+    "description": "Buzz Aldrin becomes the second person to step onto the lunar surface."
+  },
+  {
+    "timestamp": "1969-07-21T17:54:00Z",
+    "title": "Lunar Module Liftoff",
+    "description": "The Lunar Module ascends from the lunar surface to rendezvous and dock with the Command Module."
+  },
+  {
+    "timestamp": "1969-07-22T04:55:42Z",
+    "title": "Return to Earth",
+    "description": "The spacecraft fires its engine to leave lunar orbit and return to Earth."
+  },
+  {
+    "timestamp": "1969-07-24T16:50:35Z",
+    "title": "Splashdown in Pacific Ocean",
+    "description": "Apollo 11 splashes down in the Pacific Ocean, approximately 812 nautical miles southwest of Hawaii."
+  },
+  {
+    "timestamp": "1969-07-24T17:29:00Z",
+    "title": "Recovery of Astronauts",
+    "description": "Astronauts are recovered by the USS Hornet recovery ship."
+  },
+  {
+    "timestamp": "1969-07-24T21:39:00Z",
+    "title": "Quarantine Begins",
+    "description": "Astronauts begin quarantine that lasts until August 10, 1969."
+  }
+]

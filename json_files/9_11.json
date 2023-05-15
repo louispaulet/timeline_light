@@ -1,0 +1,78 @@
+[
+  {
+    "timestamp": "2001-09-11T05:45:00Z",
+    "title": "Hijackers Pass Through Security",
+    "description": "The hijackers pass through security at Portland International Jetport in Maine. They board a flight to Boston's Logan International Airport, where they connect to American Airlines Flight 11."
+  },
+  {
+    "timestamp": "2001-09-11T07:59:00Z",
+    "title": "Flight 11 Takes Off",
+    "description": "American Airlines Flight 11 takes off from Boston bound for Los Angeles. There are 92 people on board."
+  },
+  {
+    "timestamp": "2001-09-11T08:14:00Z",
+    "title": "Flight 175 Takes Off",
+    "description": "United Airlines Flight 175 takes off from Boston, also bound for Los Angeles. There are 65 people on board."
+  },
+  {
+    "timestamp": "2001-09-11T08:20:00Z",
+    "title": "Flight 77 Takes Off",
+    "description": "American Airlines Flight 77 takes off from Dulles International Airport outside of Washington, D.C., bound for Los Angeles. There are 64 people on board."
+  },
+  {
+    "timestamp": "2001-09-11T08:42:00Z",
+    "title": "Flight 93 Takes Off",
+    "description": "United Airlines Flight 93 takes off from Newark International Airport en route to San Francisco. There are 44 people on board."
+  },
+  {
+    "timestamp": "2001-09-11T08:46:40Z",
+    "title": "Flight 11 Crashes into North Tower",
+    "description": "American Airlines Flight 11 crashes into the North Tower of the World Trade Center."
+  },
+  {
+    "timestamp": "2001-09-11T09:03:00Z",
+    "title": "Flight 175 Crashes into South Tower",
+    "description": "United Airlines Flight 175 crashes into the South Tower of the World Trade Center."
+  },
+  {
+    "timestamp": "2001-09-11T09:37:46Z",
+    "title": "Flight 77 Crashes into the Pentagon",
+    "description": "American Airlines Flight 77 crashes into the Pentagon in Arlington, Virginia."
+  },
+  {
+    "timestamp": "2001-09-11T09:59:00Z",
+    "title": "South Tower Collapses",
+    "description": "The South Tower of the World Trade Center collapses."
+  },
+  {
+    "timestamp": "2001-09-11T10:03:11Z",
+    "title": "Flight 93 Crashes in Pennsylvania",
+    "description": "United Airlines Flight 93 crashes into a field in Somerset County, Pennsylvania."
+ 
+},
+  {
+    "timestamp": "2001-09-11T10:28:00Z",
+    "title": "North Tower Collapses",
+    "description": "The North Tower of the World Trade Center collapses."
+  },
+  {
+    "timestamp": "2001-09-11T12:16:00Z",
+    "title": "U.S. Airspace Cleared",
+    "description": "For the first time in history, the FAA grounds all flights over or bound for the continental U.S."
+  },
+  {
+    "timestamp": "2001-09-11T20:30:00Z",
+    "title": "President Bush Addresses the Nation",
+    "description": "President George W. Bush addresses the nation and vows to find those responsible for the attacks."
+  },
+  {
+    "timestamp": "2001-09-12T10:00:00Z",
+    "title": "Rescue and Recovery Efforts Begin",
+    "description": "Rescue and recovery efforts begin at the World Trade Center, the Pentagon, and the crash site in Pennsylvania."
+  },
+  {
+    "timestamp": "2001-09-20T21:00:00Z",
+    "title": "President Bush Addresses Congress",
+    "description": "President Bush addresses a joint session of Congress, declaring a War on Terror."
+  }
+]
