@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "1912-04-10T12:00:00",
+    "title": "Titanic Departs from Southampton",
+    "description": "The RMS Titanic begins her maiden voyage, departing from Southampton, England, with approximately 2,224 passengers and crew members."
+  },
+  {
+    "timestamp": "1912-04-14T11:40:00",
+    "title": "Iceberg Spotted",
+    "description": "Lookouts spot an iceberg in the ship's path. Despite attempts to maneuver the ship away, the Titanic strikes the iceberg."
+  },
+  {
+    "timestamp": "1912-04-14T23:45:00",
+    "title": "Orders to Launch Lifeboats",
+    "description": "About an hour after the collision, Captain Smith orders the crew to load women and children into the lifeboats."
+  },
+  {
+    "timestamp": "1912-04-15T00:45:00",
+    "title": "First Lifeboat Launched",
+    "description": "The first lifeboat is launched. It can carry 65 people, but leaves with only 28 on board."
+  },
+  {
+    "timestamp": "1912-04-15T02:20:00",
+    "title": "Titanic Sinks",
+    "description": "The Titanic sinks beneath the Atlantic Ocean, two hours and forty minutes after colliding with the iceberg."
+  },
+  {
+    "timestamp": "1912-04-15T04:10:00",
+    "title": "Rescue by RMS Carpathia",
+    "description": "The RMS Carpathia arrives on the scene and rescues approximately 705 survivors from the lifeboats."
+  }
+]
