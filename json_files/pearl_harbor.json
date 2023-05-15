@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "1941-12-07T06:00:00",
+    "title": "Japanese aircraft carriers begin launch",
+    "description": "Six Japanese aircraft carriers start to launch 183 planes - a mix of fighters, bombers, and torpedo planes.",
+    "image": "http://example.com/images/carriers.jpg"
+  },
+  {
+    "timestamp": "1941-12-07T07:02:00",
+    "title": "Opana Radar Site detects incoming planes",
+    "description": "Two U.S. Army privates manning the Opana Radar Site detect incoming planes. Their warning is dismissed as a flight of B-17s due from the mainland.",
+    "image": "http://example.com/images/opana_radar.jpg"
+  },
+  {
+    "timestamp": "1941-12-07T07:48:00",
+    "title": "First wave of attack begins",
+    "description": "The first wave of Japanese planes begins the attack on Pearl Harbor, aiming primarily at the airfields and battleships.",
+    "image": "http://example.com/images/first_wave.jpg"
+  },
+  {
+    "timestamp": "1941-12-07T08:10:00",
+    "title": "USS Arizona is hit",
+    "description": "A 1,760-pound bomb hits the USS Arizona, causing a massive explosion that sinks the ship within nine minutes.",
+    "image": "http://example.com/images/uss_arizona.jpg"
+  },
+  {
+    "timestamp": "1941-12-07T08:54:00",
+    "title": "Second wave of attack begins",
+    "description": "The second wave of Japanese planes begins their attack, targeting other ships and shipyard facilities.",
+    "image": "http://example.com/images/second_wave.jpg"
+  },
+  {
+    "timestamp": "1941-12-07T09:45:00",
+    "title": "Attack ends",
+    "description": "The attack on Pearl Harbor ends. The Japanese have sunk or heavily damaged eight battleships, three cruisers, four destroyers, and nearly 200 aircraft.",
+    "image": "http://example.com/images/end_attack.jpg"
+  },
+  {
+    "timestamp": "1941-12-08T12:30:00",
+    "title": "US declares war on Japan",
+    "description": "President Franklin D. Roosevelt delivers his 'Infamy Speech' to Congress, asking for a declaration of war against Japan.",
+    "image": "http://example.com/images/infamy_speech.jpg"
+  }
+]
