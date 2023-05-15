@@ -1,25 +1,21 @@
-// Load the JSON file and create the timeline
 fetch('json_files/titanic.json')
   .then(response => response.json())
   .then(events => {
-    // Create a DataSet with the events
-    var items = new vis.DataSet(events.map(event => ({
-      start: event.timestamp,
-      content: `<strong>${event.title}</strong><p>${event.description}</p>`
-    })));
+    // Convert the events to TimelineJS's slide structure
+    var slides = events.map(event => ({
+      start_date: {
+        year: new Date(event.timestamp).getFullYear(),
+        month: new Date(event.timestamp).getMonth() + 1,
+        day: new Date(event.timestamp).getDate(),
+        hour: new Date(event.timestamp).getHours(),
+        minute: new Date(event.timestamp).getMinutes()
+      },
+      text: {
+        headline: event.title,
+        text: `<p class='desc'>${event.description}</p>`
+      }
+    }));
 
-    // Configuration for the Timeline
-    var options = {
-      width: '100%',
-      height: '100%',
-      stack: true,
-      showMajorLabels: true,
-      showCurrentTime: true,
-      zoomMax: 315360000000000,
-      type: 'box'
-    };
-
-    // Create a Timeline
-    var container = document.getElementById('visualization');
-    var timeline = new vis.Timeline(container, items, options);
+    // Create a timeline
+    var timeline = new TL.Timeline('timeline-embed', { events: slides });
   });
