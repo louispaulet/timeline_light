@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2017-03-14T00:00:00",
+    "title": "Microsoft Releases Patch for SMB Vulnerability",
+    "description": "Microsoft releases security bulletin MS17-010, a patch for a vulnerability in the server message block (SMB) protocol used by Windows."
+  },
+  {
+    "timestamp": "2017-04-14T00:00:00",
+    "title": "Shadow Brokers Leak EternalBlue",
+    "description": "The hacking group known as the Shadow Brokers leaks EternalBlue, an exploit developed by the NSA that takes advantage of the SMB vulnerability."
+  },
+  {
+    "timestamp": "2017-05-12T07:44:00",
+    "title": "WannaCry Ransomware Starts Spreading",
+    "description": "The WannaCry ransomware attack starts spreading across computers worldwide, encrypting files and demanding a Bitcoin ransom."
+  },
+  {
+    "timestamp": "2017-05-12T15:30:00",
+    "title": "NHS Reports WannaCry Infections",
+    "description": "The UK's National Health Service (NHS) reports that its systems are being infected by WannaCry, disrupting healthcare services."
+  },
+  {
+    "timestamp": "2017-05-12T22:00:00",
+    "title": "Kill Switch Found",
+    "description": "Marcus Hutchins, a cybersecurity researcher, discovers a kill switch in the WannaCry code, slowing the spread of the ransomware."
+  },
+  {
+    "timestamp": "2017-05-19T00:00:00",
+    "title": "Global Impact Assessed",
+    "description": "Over a week since the initial attack, it's estimated that WannaCry affected over 200,000 computers in 150 countries, causing billions in damages."
+  }
+]
