@@ -52,10 +52,18 @@ function createTimeline(jsonFilePath) {
     });
 }
 
-// Create the initial timeline from the first JSON file
-createTimeline(`json_files/${jsonFiles[0]}`);
+// Get JSON file from URL parameters or default to the first JSON file
+var params = new URLSearchParams(window.location.search);
+var jsonFile = params.get('jsonFile') || `json_files/${jsonFiles[0]}`;
 
-// Update the timeline when a new JSON file is selected
+// Set the selected option in the dropdown
+select.value = jsonFile;
+
+// Create the initial timeline from the JSON file
+createTimeline(jsonFile);
+
+// Update the timeline and the URL when a new JSON file is selected
 select.addEventListener('change', function() {
   createTimeline(this.value);
+  window.history.pushState({}, '', `?jsonFile=${this.value}`);
 });
