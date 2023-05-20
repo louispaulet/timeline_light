@@ -12,6 +12,7 @@ var jsonFiles = [
 "Higgs_Boson.json",
 "Moon_Landing.json",
 "Nicolas_Sarkozy.json",
+"Sakozy_et_la_justice.json",
 "Pearl_Harbor.json",
 "Space_Shuttle_Challenger.json",
 "The_Office.json",
