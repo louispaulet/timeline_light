@@ -1,6 +1,7 @@
 // List of JSON filenames
 var jsonFiles = [   
 "Christian_Gravel_audition.json",
+"Kim_Dynasty.json",
 "9_11.json",
 "Albert_Einstein.json",
 "Climate_Change.json",
